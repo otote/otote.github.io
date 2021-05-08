@@ -1,1 +1,52 @@
-{"Splash":[{"title":"Blogs","type":"sitelink","link":"/posts"},{"title":"Twitter","type":"permalink","link":"https://twitter.com","_blank":true},{"title":"Github","type":"permalink","link":"https://github.com/otote","_blank":true},{"title":"Rss","type":"permalink","link":"/link/index.html","_blank":true}],"Drawer":[{"title":"Blog","type":"sitelink","link":"/posts"},{"title":"Tags","type":"sitelink","link":"/tags"}],"animated":{"posts":"slideInLeft","post":"slideInLeft","page":"slideInLeft","tags":"bounceInUp"},"page404":true}
+{
+    "Splash": [
+        {
+            "title": "Blogs",
+            "type": "sitelink",
+            "link": "/posts"
+        },
+        {
+            "title": "Twitter",
+            "type": "permalink",
+            "link": "https://twitter.com",
+            "_blank": true
+        },
+        {
+            "title": "Github",
+            "type": "permalink",
+            "link": "https://github.com/otote",
+            "_blank": true
+        },
+        {
+            "title": "Rss",
+            "type": "permalink",
+            "link": "/link/index.html",
+            "_blank": true
+        },
+        {
+            "title": "闽ICP备18006281号-1",
+            "type": "permalink",
+            "link": "https://beian.miit.gov.cn/",
+            "_blank": true
+        }
+    ],
+    "Drawer": [
+        {
+            "title": "Blog",
+            "type": "sitelink",
+            "link": "/posts"
+        },
+        {
+            "title": "Tags",
+            "type": "sitelink",
+            "link": "/tags"
+        }
+    ],
+    "animated": {
+        "posts": "slideInLeft",
+        "post": "slideInLeft",
+        "page": "slideInLeft",
+        "tags": "bounceInUp"
+    },
+    "page404": true
+}
