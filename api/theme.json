@@ -22,12 +22,6 @@
             "type": "permalink",
             "link": "/link/index.html",
             "_blank": true
-        },
-        {
-            "title": "闽ICP备18006281号-1",
-            "type": "permalink",
-            "link": "https://beian.miit.gov.cn/",
-            "_blank": true
         }
     ],
     "Drawer": [
